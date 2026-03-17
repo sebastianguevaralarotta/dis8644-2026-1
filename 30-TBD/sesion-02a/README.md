@@ -87,4 +87,10 @@ Version branch es una de desarrollo donde proximamente se puede agregar a la ver
 
 ---
 
-la imagenes que devemos poner sin espacio, sin tildes, sin mayusculas
+la imagenes que devemos poner: sin espacio, sin tildes, sin mayusculas y la manera de subirlas es ![cualquier texto aca]-(./imagenes/apuntesprueba.PNG) SIN EL GIÓN
+
+                                                                                             el texto puede tener espacio  nombre del archivo exacto
+
+osea:
+
+es![cualquier texto aca](./imagenes/apuntesprueba.PNG)
