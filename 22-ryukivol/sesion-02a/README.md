@@ -45,7 +45,7 @@
 | R2                    |   1   |   0   |   0   |   1   |
 | R5                    |    1  |   0   |  0    |   1   |
 
-![imagen1](/imagen/ejercicio-1.1)
+![imagen1](./imagen/ejercicio-1.1)
 
 
 #### Ejercicio 2
