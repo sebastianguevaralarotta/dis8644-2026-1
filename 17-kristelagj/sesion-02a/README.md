@@ -100,9 +100,28 @@ Al igual que las críticas, no es de mi interés y gusto su portada (me gusta ha
 
 - Ejercicios
 
-En clases, junto a mi compañera Paula realizamos el ejercicio número 1, pero quedamos con dudas a pesar de que nos prendieron las luces. 
+En clases, junto a mi compañera Paula realizamos el ejercicio número 1, pero quedamos con dudas a pesar de que nos prendieron las luces. (después me di cuenta que confundimos algunas residencias) 
 
 Después de eso, yo intente hacer por mi parte los circuitos vistos en clases y ninguno me funciono lo cual me frustro y sentía que ya pasar al siguiente nivel no me iba a funcionar, tampoco queria ver videos en youtube porque queria tener un poco de razonamiento descifrando lo que se nos entregó. 
+
+Ejercicio 1
+
+Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
+1. Si quiero que la luz se encienda debo procurar que ambos lados (+ y -) estén conectados en el lugar que corresponde ósea ++ y - -
+2. La resistencia limita la corriente para no quemar el led
+3. Todo debe ir como se presenta el el esquemático, por ejemplo si a D1 le sigue una resistencia de 1k colocarla después de ello
+4. El nodo es un punto donde se conectan 2 o más componentes en el circuito
+
+| loquitoportilocoloco  | D1    | D2    | D3    | D4    |
+| ---                   | ---   | ---   | ---   | ---   |
+| R1                    |    0  |    0  |     0 |     0 |
+| R3                    |    1  |    1  |     1 |     0 |
+| R4                    |    1  |    1  |     1 |     0 |
+| R2                    |    0  |    0  |     0 |     1 |
+| R5                    |    0  |   0   |     0 |     1 |
+
+
+
 
 
 
