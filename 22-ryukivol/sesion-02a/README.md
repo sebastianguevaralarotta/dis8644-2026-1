@@ -31,9 +31,9 @@
 ![imagen1](/imagen/circuito-6leds)
 ![imagen1](/imagen/circuito-6leds-2)
 
-- #### ENCARGOOOO 
+ ## **ENCARGOOOO** 
 
-- #### Ejercicio 1
+- ### **Ejercicio 1** 
 
 ![Circuito 1](./imagenes/lqxtlc1.png)
 
@@ -48,7 +48,7 @@
 ![imagen1](./imagen/ejercicio-1.1)
 
 
-- #### Ejercicio 2
+- ### **Ejercicio 2** 
 
 ![Circuito 2](./imagenes/lqxtlc2.png)
 
@@ -63,7 +63,7 @@
 | R7                   | 1  | 1  |  1 |
 | R8                   |  1 | 1  | 0  |
 
-- #### Ejercicio 3
+- ### **Ejercicio 3** 
 
 ![Circuito 3](./imagenes/lqxtlc3.png)
 
@@ -76,12 +76,12 @@
 | R5                   |  1 | 1  |  1 |  1 |
 | R6                   |  1 |  1 |  1 |  1 |
 
--  #### Anotaciones 
+### **Anotaciones**  
 - Al quitar R2 baja la intensidad de D2
 - Al quitar R3 baja la intensidad de D3 y aumenta la de D2 
 - Al quitar R5 sube la intensidad de D2 y baja un poco la de D3 y pasa exactamente lo mismo al quitar D6
 
-  #### Kraftwerk
+  - ### Kraftwerk
 
-  #### LCD Soundsystem
+  - ### LCD Soundsystem
 
