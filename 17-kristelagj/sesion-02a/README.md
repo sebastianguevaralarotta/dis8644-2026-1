@@ -118,7 +118,15 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R3                    |    1  |    1  |     1 |     0 |
 | R4                    |    1  |    1  |     1 |     0 |
 | R2                    |    0  |    0  |     0 |     1 |
-| R5                    |    0  |   0   |     0 |     1 |
+| R5                    |    0  |   0   |     0 |     1 |             
+
+| resistencias  | posiciones   |
+| ---           | ---          | 
+| R1            |    I2,I5     |   
+| R3            |    I6,I11    |   
+| R4            |    C5,C9     |    
+| R2            |    G5,D5     |  
+| R5            |    G12,G14   | 
 
 
 
